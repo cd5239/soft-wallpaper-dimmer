@@ -14,7 +14,7 @@
 
 ## 下载与使用
 
-从 [Releases](https://github.com/cd5239/soft-wallpaper-dimmer/releases) 下载 `柔光壁纸-v1.0.zip`，解压后运行 `柔光壁纸.exe`。适用 Windows 10/11，使用系统自带的 .NET Framework 4.x；不需要管理员权限或联网。
+从 [Releases](https://github.com/cd5239/soft-wallpaper-dimmer/releases) 下载 `soft-wallpaper-dimmer-v1.0-win.zip`，解压后运行 `柔光壁纸.exe`。适用 Windows 10/11，使用系统自带的 .NET Framework 4.x；不需要管理员权限或联网。
 
 1. 点击“读取当前壁纸”或“选择图片”。
 2. 调节“调暗程度”，建议从 25% 开始。
